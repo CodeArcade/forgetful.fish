@@ -13,6 +13,7 @@
     "vite": "^5.4.1"
   },
   "dependencies": {
+    "@saeris/typeface-beleren-bold": "^1.0.1",
     "@trpc/client": "^10.45.2",
     "pixi.js": "^8.4.1",
     "zod": "^3.23.8"
