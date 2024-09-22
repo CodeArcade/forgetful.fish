@@ -1,6 +1,6 @@
 # forgetful.fish
 
-Forgetful Fish is a browser-based version of Magic: The Gathering that lets you play one thing and one thing only - Dandan, also known as "Forgetful Fish" format,
+Forgetful Fish is a browser-based version of Magic: The Gathering that lets you play one thing and one thing only - Dandân, also known as "Forgetful Fish" format,
 
 ## Stack
 
